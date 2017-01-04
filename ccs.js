@@ -1,6 +1,6 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "Flime",
+    "author": "thimonbongaards",
     "icon": null,
     "css": null,
     "rules": {
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": http://i.imgur.com/GZKgCpk.png,
         "playback": null,
         "admin": null,
         "ambassador": null,
