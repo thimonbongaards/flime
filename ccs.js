@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "http://i.imgur.com/GZKgCpk.png",
+        "background": null,
         "playback": null,
         "admin": null,
         "ambassador": null,
