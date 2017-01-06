@@ -1,5 +1,5 @@
 {
-    "room": "Flime",
+    "room": "flime",
     "author": "thimonbongaards",
     "icon": null,
     "css": null,
