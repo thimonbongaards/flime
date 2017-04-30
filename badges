@@ -1,0 +1,119 @@
+#user-rollover.id-25259357 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-25259357 .badge-box i,
+#chat-messages .id-25259357 .badge-box i {
+    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e01.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#chat-messages .fromID-4343261 .badge-box i,
+#chat-messages .id-4343261 .badge-box i {
+    background-image: url(http://i.imgur.com/fTZkHiN.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#chat-messages .fromID-4103481 .badge-box i,
+#chat-messages .id-4103481 .badge-box i {
+    background-image: url(https://nightbloo.github.io/plug/custom-badges/leaf.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+#user-rollover.id-25332612 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://s-media-cache-ak0.pinimg.com/736x/c5/e4/c0/c5e4c0ddab8d2706086ab8ef2297246f.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-25332612 .badge-box i,
+#chat-messages .id-25332612 .badge-box i {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/c5/e4/c0/c5e4c0ddab8d2706086ab8ef2297246f.jpg);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+#user-rollover.id-26594509 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/IU4m3W1.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-26594509 .badge-box i,
+#chat-messages .id-26594509 .badge-box i {
+    background-image: url(https://nightbloo.github.io/plug/custom-badges/leaf.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+#user-rollover.id-17856644 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e02.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-17856644 .badge-box i,
+#chat-messages .id-17856644 .badge-box i {
+    background-image: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-nycb-e02.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+#user-rollover.id-17796858 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://s-media-cache-ak0.pinimg.com/originals/41/5f/a6/415fa6d6cf261782b455e99c226f8dac.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+#chat-messages .fromID-17796858 .badge-box i,
+#chat-messages .id-17796858 .badge-box i {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/41/5f/a6/415fa6d6cf261782b455e99c226f8dac.jpg);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
