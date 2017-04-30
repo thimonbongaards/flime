@@ -1,3 +1,11 @@
+#user-rollover.id-26594509 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/IU4m3W1.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
 #chat-messages .fromID-4343261 .badge-box i,
 #chat-messages .id-4343261 .badge-box i {
     background-image: url(http://i.imgur.com/fTZkHiN.gif);
