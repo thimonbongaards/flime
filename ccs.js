@@ -40,6 +40,8 @@
         "silversubscriber": null
     },
     "emotes": {
+        "thinking_about": "https://i.imgur.com/h0wCdgF.png?1",
+        "tacodance": "https://i.imgur.com/aMrae4z.gif",
         "doge": "https://i.imgur.com/cZmTfyu.jpg"
     }
 }
