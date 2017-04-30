@@ -37,9 +37,9 @@
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
-        "silversubscriber": null,
+        "silversubscriber": null
     },
     "emotes": {
-        "doge": "https://i.imgur.com/cZmTfyu.jpg",
+        "doge": "https://i.imgur.com/cZmTfyu.jpg"
     }
 }
