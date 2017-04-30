@@ -40,6 +40,6 @@
         "silversubscriber": null,
     },
     "emotes": {
-    	"emote_name": null
+        "doge": "https://i.imgur.com/cZmTfyu.jpg",
     }
 }
