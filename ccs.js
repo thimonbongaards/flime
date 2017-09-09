@@ -13,6 +13,19 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
+    "colors.chat.*": {
+        "admin": null,
+        "ambassador": "#FF8C00",
+        "host": "#7FFFD4",
+        "cohost": "#86b9df",
+        "manager": "#68B354",
+        "bouncer": "#68B354",
+        "rdj": "#68B354",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
     "ccc": {
         "admin": null,
         "ambassador": "#FF8C00",
