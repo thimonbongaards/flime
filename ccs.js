@@ -26,13 +26,6 @@
         "friend": null,
         "user": null
     },
-.id-17796858 > .badge-box > i.bdg
-{
-    background-image:    url("http://rs1192.pbsrc.com/albums/aa331/YakusokuChan/Lawlit.gif~c200");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}
     "ccc": {
         "admin": null,
         "ambassador": "#FF8C00",
