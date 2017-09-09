@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "https://rcs.radiant.dj/img/plugdj/badges/bdg-2014wbb.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
